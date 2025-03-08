@@ -1,0 +1,49 @@
+[
+  {
+    "ContainingType": "DbOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencyAsync",
+    "RelativePath": "api/Currency",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetAllCurrencyByIdAsync",
+    "RelativePath": "api/Currency/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DbOperationsWithEFCoreApp.Controllers.CurrencyController",
+    "Method": "GetCurrenciesByIdAndTitle",
+    "RelativePath": "api/Currency/{Id}/{Title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "Title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

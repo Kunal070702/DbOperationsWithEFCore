@@ -1,7 +1,40 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\controllers\\currencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\model\\domain\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\model\\domain\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\model\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\model\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\model\\domain\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\model\\domain\\bookprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\model\\domain\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\model\\domain\\languages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|d:\\dotnet\\ef_learning\\dboperationswithefcore\\dboperationswithefcoreapp\\dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B7EC91-5FFF-4139-9B39-FB0C2BA4A52E}|DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp.csproj|solutionrelative:dboperationswithefcoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +42,113 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrencyController.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Controllers\\CurrencyController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T12:02:04.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookPrice.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\BookPrice.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Model\\Domain\\BookPrice.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\BookPrice.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Model\\Domain\\BookPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:16:26.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Currency.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Model\\Domain\\Currency.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Currency.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Model\\Domain\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T11:14:22.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Languages.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Languages.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Model\\Domain\\Languages.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Languages.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Model\\Domain\\Languages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:44:21.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Model\\Domain\\Book.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Model\\Domain\\Book.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Model\\Domain\\Book.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwA4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T08:20:00.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Program.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:48:28.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T07:41:35.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeDocumentMoniker": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ToolTip": "D:\\DotNet\\EF_learning\\DbOperationsWithEFCore\\DbOperationsWithEFCoreApp\\DbOperationsWithEFCoreApp\\appsettings.json",
+              "RelativeToolTip": "DbOperationsWithEFCoreApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T07:54:22.319Z"
             }
           ]
         }
